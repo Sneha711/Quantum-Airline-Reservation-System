@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/Airline_Reservation/database.php" method="post"> 
+  First Name:<br>
+  <input type="text" name="firstname">
+  <br>
+  Last Name:<br>
+  <input type="text" name="lastname">
+  <br>
+  Username:<br>
+  <input type="text" name="username">
+  <br>
+  Password:<br>
+  <input type="password" name="password">
+  <br><br>
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>
